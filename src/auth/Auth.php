@@ -52,7 +52,6 @@ class Auth
 
         $array = [
             'token' =>  $jwt,
-            'auth'  =>  'ok'
         ];
 
         return json_encode($array);

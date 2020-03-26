@@ -1,6 +1,6 @@
 <?php
 
-$conn = new mysqli('localhost', 'root', '', 'meritocracia_api');
+$conn = new mysqli('localhost', 'root', 'moiseslinar3s', 'meritocracia_api');
 
 // if ($_SERVER['HTTP_HOST'] == 'monases2.com'){alhost', 'root', 'moiseslinar3s', 'monases');
 //// }else {
